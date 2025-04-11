@@ -1,6 +1,6 @@
 numbers = [1, 2, 3, 4, 5]
 
-# Hint: https://github.com/SoliGabiAnn/Functional-programming-course/wiki/4.-Map-Vs-Starmap#why-use-it
+# Hint: https://github.com/SoliGabiAnn/Functional-programming-course/wiki/04.-Map-Vs-Starmap#why-use-it
 
 # Step 1: Square each number using map()
 squared_numbers = map( ... )
