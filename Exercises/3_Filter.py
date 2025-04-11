@@ -1,4 +1,4 @@
-# Hint: https://github.com/SoliGabiAnn/Functional-programming-course/wiki/5.-Filter#why-use-it
+# Hint: https://github.com/SoliGabiAnn/Functional-programming-course/wiki/05.-Filter#why-use-it
 
 transactions = [
     {"id": 1, "amount": "15.50", "status": "valid"},
