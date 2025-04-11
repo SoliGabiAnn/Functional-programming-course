@@ -25,5 +25,5 @@ print(list(formatted_amounts))
 '''
 Expected Output:
 
-['$17.05', '$110.83']
+['17.05 zł', '110.83 zł']
 '''
